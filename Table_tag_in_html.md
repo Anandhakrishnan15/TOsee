@@ -1,6 +1,4 @@
-[---
-title: The Table Tag in HTML
----
+
 
 # The Table Tag in HTML:
 
