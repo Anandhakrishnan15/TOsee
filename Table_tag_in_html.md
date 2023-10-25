@@ -1,4 +1,4 @@
----
+[---
 title: The Table Tag in HTML
 ---
 
@@ -315,3 +315,4 @@ Use the style attribute with the width or height properties to specify the size 
 </table>
 ```
 The HTML `<table>` element is a significant tool for organising and presenting data on web pages. Web developers may produce aesthetically attractive and structured material for consumers by employing rows, columns, headers, and data cells. Understanding how to use the `<table>` tag and its accompanying parts successfully is a critical skill for anybody trying to create informative and user-friendly websites.
+](https://www.programiz.com/sites/tutorial2program/files/html-table.png)https://www.programiz.com/sites/tutorial2program/files/html-table.png
